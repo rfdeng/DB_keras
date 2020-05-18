@@ -1,7 +1,11 @@
 # A modified version of DB in keras by ruifeng.
 suport detection in rectangle(quadrangle) now.
+
 modify the data generator for large dataset.
+
 remove several warnings.
+
+my pretrained model weights on syntext is here: [google drive](https://drive.google.com/open?id=1EZVqHzbb_KtY-wUt72myuC_V-PtYcnAD)
 
 original readme:
 # DifferentiableBinarization
